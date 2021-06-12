@@ -1,3 +1,20 @@
+# More on Machine Learning & Deep Learning
+
+Find more of my deep learning models on the following links:
+
+- [Car Detection](https://github.com/Rakib1508/car-detection)
+- [Emoji Generator](https://github.com/Rakib1508/emojify)
+- [Face Recognition](https://github.com/Rakib1508/face-recognition)
+- [Machine Translation](https://github.com/Rakib1508/machine-translation)
+- [Neural Style Transfer](https://github.com/Rakib1508/neural-style-transfer)
+- [Trigger Word Detection](https://github.com/Rakib1508/trigger-word-detection)
+- [Word Vector Representation](https://github.com/Rakib1508/word-vector-representation)
+
+More ML/DL models in the following links:
+
+- [Fundamental Machine Learning Models](https://github.com/Rakib1508/ml-projects)
+- [Machine Learning with MatLab](https://github.com/Rakib1508/Machine-Learning)
+
 # Deep Learning (DL)
 
 This repository consists a collection of simple Deep Neural Network models I developed with Python and Jupyter Notebook. My other more advanced deep learning models can be found in different other repositories on my [Github Repositories](https://github.com/Rakib1508?tab=repositories). I have used Jupyter notebook to build the models for the most part, but some contains additional python files to provide supporting functions to keep the notebook more organized.
